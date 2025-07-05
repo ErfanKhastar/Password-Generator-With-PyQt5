@@ -2,5 +2,5 @@
 
 Simple dekstop application with PyQt5
 
-# Run:
+## Run:
 python main.py
